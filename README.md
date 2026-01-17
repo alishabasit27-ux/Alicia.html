@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -222,7 +221,7 @@
 
         <div class="course-grid">
             <div class="course-card">
-                <img src=https://i.pinimg.com/736x/44/0c/0a/440c0ab4244c3bf91e796cd4d5c65fd5.jpg"" alt="C1">
+                <img src="https://i.pinimg.com/736x/44/0c/0a/440c0ab4244c3bf91e796cd4d5c65fd5.jpg" alt="C1">
                 <div style="padding: 10px;"><h4>Subject 1</h4></div>
             </div>
             <div class="course-card">
